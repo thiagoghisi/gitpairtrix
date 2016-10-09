@@ -1,0 +1,5 @@
+- Decouple git commit from build pairs dictionary
+- Decouple regex for extracting pairs from authors
+- Define params
+- Reuse ~/.pairs file to fetch authors
+- Better logging
